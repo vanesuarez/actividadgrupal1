@@ -19,7 +19,7 @@ body {
 }
 
 footer {
-    background-color: black;
+    background-color: rgba(0, 0, 0, 0.992);
     color: white;
     text-align: end;
     position: fixed;
