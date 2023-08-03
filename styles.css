@@ -14,8 +14,15 @@
     box-shadow: 2px 3px #888888;
 }
 
+
+.link-button:hover {
+    background-color: black;
+    color: #f2f2f2;
+}
+
 body {
     background-color: rgb(255, 255, 165);
     margin: 0 auto;
     text-align: center;
 }
+
