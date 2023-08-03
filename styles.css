@@ -1,7 +1,10 @@
 body {
     background-color: rgb(26, 190, 190);
+    margin: 0 auto;
+    text-align: center;
     font-family: monospace;
 }
+
 .image{
     border: 5px solid green;
     border-radius: 10px;
@@ -33,9 +36,4 @@ body {
     color: #f2f2f2;
 }
 
-body {
-    background-color: rgb(255, 255, 165);
-    margin: 0 auto;
-    text-align: center;
-}
 
